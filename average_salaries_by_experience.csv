@@ -1,0 +1,27 @@
+job_title,experience_level,salary_in_usd
+Analytics Engineer,EN,130000.0
+Analytics Engineer,EX,175125.0
+Analytics Engineer,MI,119204.1052631579
+Analytics Engineer,SE,161158.73469387754
+Data Analyst,EN,61186.05714285714
+Data Analyst,EX,113750.0
+Data Analyst,MI,100324.0773480663
+Data Analyst,SE,119856.61622807017
+Data Architect,EX,167500.0
+Data Architect,MI,159777.77777777778
+Data Architect,SE,165838.58823529413
+Data Engineer,EN,90184.08823529411
+Data Engineer,EX,209720.80327868852
+Data Engineer,MI,110079.49790794979
+Data Engineer,SE,154069.2829736211
+Data Scientist,EN,75491.15151515152
+Data Scientist,EX,189244.8
+Data Scientist,MI,96068.57627118644
+Data Scientist,SE,160953.2558139535
+Machine Learning Engineer,EN,94275.57142857143
+Machine Learning Engineer,MI,126160.98550724638
+Machine Learning Engineer,SE,177777.2967032967
+Research Scientist,EN,122656.0
+Research Scientist,EX,84053.0
+Research Scientist,MI,147407.375
+Research Scientist,SE,184373.07462686568
