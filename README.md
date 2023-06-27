@@ -1,4 +1,4 @@
-# PowerBI-Python_Data-Sience-Jobs-Salaries
+# PowerBI-Python_Data-Science-Jobs-Salaries
    An analysis of salaries of jobs in data science based on job ads.
 
 ## Dataset:
