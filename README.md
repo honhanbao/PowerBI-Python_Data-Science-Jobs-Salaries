@@ -3,10 +3,12 @@
 
 ## Dataset:
    salaries.csv
-
-## Description
+## Data Preparation
    Python is used to generate data
-      - Top 10 frequency jobs
-      - Top 10 highest-paid jobs on average
-      - Average salaries by the experience of popular titles
-   Power Bi is used to visualize data
+      <ul>
+         <li>Top 10 frequency jobs</li>
+         <li>Top 10 highest-paid jobs on average</li>
+         <li>Average salaries by the experience of popular titles</li>
+      </ul>
+## Data visualization
+   Power Bi is used to visualizing data
